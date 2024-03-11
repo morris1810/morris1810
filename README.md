@@ -2,6 +2,8 @@
 
 I'm a passionate Full Stack Developer with a flair for creating elegant solutions in the least amount of time. I specialize in various technologies and love turning complex problems into simple, intuitive solutions.
 
+<p align="center">"I turn coffee into code, and liquor fuels my creativity."</p>
+
 ## About Me 🚀
 
 - 💻 I love web development and app development, with a keen interest in Full Stack Development.
@@ -9,8 +11,6 @@ I'm a passionate Full Stack Developer with a flair for creating elegant solution
 - 🎯 I'm currently focusing on website projects and always on the lookout for new and exciting freelance opportunities.
 - 💬 Ask me about anything tech-related, I'm always happy to help.
 - 📧 How to reach me: [Email me](mailto:morristung18102001@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/morris-tung-7418b1212).
-
-<p align="center">"I turn coffee into code, and liquor fuels my creativity."</p>
 
 ## Skills 🛠
 
