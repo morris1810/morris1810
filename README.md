@@ -36,3 +36,9 @@ I'm a passionate Full Stack Developer with a flair for creating elegant solution
 </p>
 
 I'm on a mission to make the web more accessible and enjoyable, one project at a time. Let's connect and create something amazing together!
+
+
+
+<a href="https://donate.stripe.com/dR6eXe8FT898fUk9AA">
+    <img src="buy-me-a-coffee.png" alt="Buy Me a Coffee" style="width: 150px;">
+</a>
