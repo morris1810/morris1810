@@ -10,7 +10,7 @@ I'm a passionate Full Stack Developer with a flair for creating elegant solution
 - ☕️ Outside of coding, you'll find me lost in a good book, enjoying a cup of coffee, or experimenting with mixology.
 - 🎯 I'm currently focusing on website projects and always on the lookout for new and exciting freelance opportunities.
 - 💬 Ask me about anything tech-related, I'm always happy to help.
-- 📧 How to reach me: [Email me](mailto:morristung18102001@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/morris-tung-7418b1212).
+- 📧 How to reach me: [Email me](mailto:morristung18102001@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/morris-tung/).
 
 ## Skills 🛠
 
