@@ -30,10 +30,13 @@ I'm a passionate Full Stack Developer with a flair for creating elegant solution
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img alt="Git" src="https://img.shields.io/badge/-GIT-F14E32?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Others" src="https://img.shields.io/badge/-...-0D1116?style=for-the-badge&logoColor=white" />
 </p>
 
 I'm on a mission to make the web more accessible and enjoyable, one project at a time. Let's connect and create something amazing together!
 
 <a href="https://donate.stripe.com/dR6eXe8FT898fUk9AA">
-    <img src="./assets/buy-me-a-coffee.png" alt="Buy Me a Coffee" style="width: 150px;">
+    <img src="https://img.shields.io/badge/-Buy_Me_a_Coffee-EEEEEE?style=for-the-badge&logo=buymeacoffee&logoColor=37251b" alt="Buy Me a Coffee" style="width: 150px;">
 </a>
+
+
