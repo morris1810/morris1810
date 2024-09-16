@@ -10,7 +10,8 @@ I'm a passionate Full Stack Developer with a flair for creating elegant solution
 - ☕️ Outside of coding, you'll find me lost in a good book, enjoying a cup of coffee, or experimenting with mixology.
 - 🎯 I'm currently focusing on website projects and always on the lookout for new and exciting freelance opportunities.
 - 💬 Ask me about anything tech-related, I'm always happy to help.
-- 📧 How to reach me: [Email me](mailto:morristung18102001@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/morris-tung/).
+- 🔗 How to reach me: [Email me](mailto:morristung18102001@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/morris-tung/).
+- 📄 Here is my [resume](https://github.com/morris1810/morris1810/raw/main/assets/Resume%20-%20Tung%20Qi%20Yong.pdf).
 
 ## Skills 🛠
 
@@ -33,8 +34,6 @@ I'm a passionate Full Stack Developer with a flair for creating elegant solution
 
 I'm on a mission to make the web more accessible and enjoyable, one project at a time. Let's connect and create something amazing together!
 
-
-
 <a href="https://donate.stripe.com/dR6eXe8FT898fUk9AA">
-    <img src="buy-me-a-coffee.png" alt="Buy Me a Coffee" style="width: 150px;">
+    <img src="./assets/buy-me-a-coffee.png" alt="Buy Me a Coffee" style="width: 150px;">
 </a>
