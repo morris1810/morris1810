@@ -18,6 +18,7 @@ I'm a passionate Full Stack Developer with a flair for creating elegant solution
 <p align="left">
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="ExpressJs" src="https://img.shields.io/badge/express.js-FFFFFF?style=for-the-badge&logo=express&logoColor=black" />
   <img alt="Tailwind" src="https://img.shields.io/badge/-TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
